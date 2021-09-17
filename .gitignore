@@ -1,0 +1,34 @@
+/[Tt]emp
+/[Ll]ibrary
+/[Oo]bj
+/*.sln
+/*.csproj
+/*.unityproj
+/*.booproj
+*.userprefs
+/Build/webgl
+/Build/xcode
+/Build/build.apk
+/Build/build.app
+/Build/build.exe
+
+.vs
+*.suo
+changelist.txt
+build/ReferenceViewer/
+Logs/
+.idea
+Assets/Plugins/Editor/JetBrains/
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor.meta
+.Ds_Store
+editor.log
+prev.commit
+
+#Plugins
+MonKey Commander
+MonKey Commander.meta
+Ruccho
+Ruccho.meta
+Assets/Plugins/UniRx/Examples/
+Assets/Plugins/UniRx/Examples.meta
